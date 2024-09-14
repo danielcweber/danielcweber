@@ -4,7 +4,7 @@
 ## Software Engineer | Creator of ExRam.Gremlinq | M.Sc. Computer Science
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielcweber/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/danielcweber)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/danielcweber)
 
 Motivated Senior Software Engineer with over two decades of experience specializing in C# and .NET. I currently work at **ExRam Innovations** in Germany.
 
