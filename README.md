@@ -5,7 +5,6 @@
 
 [![WWW](https://img.shields.io/badge/danielcweber.net-F07427?style=for-the-badge&logoColor=white)](https://danielcweber.net)
 [![LinkedIn](https://img.shields.io/badge/%2Fdanielcweber-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielcweber/)
-[![X](https://img.shields.io/badge/%40danielcweber-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/danielcweber)
 
 Motivated Senior Software Engineer with over two decades of experience specializing in C# and .NET. I currently work at **ExRam Innovations** in Germany.
 
